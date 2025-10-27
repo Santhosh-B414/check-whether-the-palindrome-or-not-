@@ -1,0 +1,1 @@
+# check-whether-the-palindrome-or-not-
